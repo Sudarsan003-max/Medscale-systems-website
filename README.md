@@ -2,13 +2,6 @@
 
 <div align="center">
   
-  **Healthcare's #1 Patient Acquisition & Growth Engine**
-
-  [![HIPAA Compliant](https://img.shields.io/badge/Compliance-HIPAA%20Compliant-a3d60c?style=for-the-badge&logo=shield)](https://github.com)
-  [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vite.dev)
-  [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-  [![Deploy to Netlify](https://img.shields.io/badge/Deploy_to-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com)
 
 </div>
 
